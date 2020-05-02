@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+}
+h2 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+h3 {
+  color: lightseagreen;
+  font-family: verdana;
+  font-size: 200%;
+}
+h4 {
+  color: lightseagreen;
+  font-family: verdana;
+  font-size: 150%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}

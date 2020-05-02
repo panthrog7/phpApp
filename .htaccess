@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 8000
+RewriteRule ^(.*)$ https://localhost/$1 [R,L]
